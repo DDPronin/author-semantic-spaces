@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local data / outputs (reproducible from notebooks)
+data/raw/
+data/collected/
+results/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+
