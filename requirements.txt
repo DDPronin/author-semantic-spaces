@@ -1,0 +1,12 @@
+gensim
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pot
+beautifulsoup4
+pymystem3
+nltk
+joblib
+tqdm
